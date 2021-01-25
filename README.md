@@ -50,5 +50,6 @@ t=-2.0915    p=0.042
  
    This difference is considered to be statistically significant since it is less than 0.05
    
- https://github.com/4renginy/Module15-MechaCar_Statistical_Analysis/blob/main/DEL3.4.PNG
+ ![](https://github.com/4renginy/Module15-MechaCar_Statistical_Analysis/blob/main/DEL3.4.PNG)
+ 
  ![](https://github.com/4renginy/Module15-MechaCar_Statistical_Analysis/blob/main/significanceLevel.PNG)
