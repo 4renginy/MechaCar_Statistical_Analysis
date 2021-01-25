@@ -1,6 +1,6 @@
 # Module15-MechaCar_Statistical_Analysis
 
-![]"https://github.com/4renginy/Module15-MechaCar_Statistical_Analysis/blob/main/DEL1.2.PNG"
+![](https://github.com/4renginy/Module15-MechaCar_Statistical_Analysis/blob/main/DEL1.2.PNG)
 
 The closer T is to 0, the more likely there isn't a significant difference.
 
