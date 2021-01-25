@@ -12,12 +12,6 @@ lm( mpg~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AW
 #generate summary statistics
 summary(lm( mpg~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AWD, data= MecaCarData))
 
-cor(MecaCarData$mpg,MecaCarData$vehicle_length )
-cor(MecaCarData$mpg, MecaCarData$vehicle_weight)
-cor(MecaCarData$mpg, MecaCarData$spoiler_angle)
-cor(MecaCarData$mpg, MecaCarData$ground_clearance)
-cor(MecaCarData$mpg, MecaCarData$AWD)
-
 #DELIVERABLE 2 ----
 #****************************
 #read suspension coil data into R
