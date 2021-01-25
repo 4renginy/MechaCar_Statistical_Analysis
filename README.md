@@ -1,20 +1,12 @@
 # Module15-MechaCar_Statistical_Analysis
 
-![](https://github.com/4renginy/Module15-MechaCar_Statistical_Analysis/blob/main/DEL1.2.PNG)
-
-The closer T is to 0, the more likely there isn't a significant difference.
-
-If p < alpha = 0.05, you have a statistically significant difference.
-
 We now have the p-value of our test, which is greater than our significance level (0.05), so we fail to reject the null hypothesis.
 
   The two-tailed P value equals 0.6072
    This difference is considered to be not statistically significant.
 
    
-
-
-   
+![](https://github.com/4renginy/Module15-MechaCar_Statistical_Analysis/blob/main/DEL1.2.PNG)
 
 
 Deliverable 2;
@@ -26,7 +18,8 @@ After calculating the total, and each lot mean, median, variance and SD as shown
 
 ![](https://github.com/4renginy/Module15-MechaCar_Statistical_Analysis/blob/main/DEL2.2.PNG)
 
-This results shows us that lot 1 and 2 has similar data however lot 3 has higher standard deviation which means the there was a dispertion of data values.
+This results shows us that lot 1 and 2 has similar data however lot 3 has higher standard deviation which means the there was a 
+dispertion of data values.
 
 Deliverable 3;
 
@@ -35,7 +28,8 @@ Total with mu=1500
 
 t=-1.8931     p=0.06
    This result is not statistically significant.
- [](https://github.com/4renginy/Module15-MechaCar_Statistical_Analysis/blob/main/DEL3.1.PNG)
+  
+![](https://github.com/4renginy/Module15-MechaCar_Statistical_Analysis/blob/main/DEL3.1.PNG)
 
 Lot1
 t=0   p=1  
