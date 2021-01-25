@@ -19,12 +19,12 @@ We now have the p-value of our test, which is greater than our significance leve
 
 Deliverable 2;
 
-![]"https://github.com/4renginy/Module15-MechaCar_Statistical_Analysis/blob/main/DEL2.1.PNG"
+![](https://github.com/4renginy/Module15-MechaCar_Statistical_Analysis/blob/main/DEL2.1.PNG)
 
 For this we have used suspension coil data collected from 3 lots. 
 After calculating the total, and each lot mean, median, variance and SD as shown picture below;
 
-![]"https://github.com/4renginy/Module15-MechaCar_Statistical_Analysis/blob/main/DEL2.2.PNG"
+![](https://github.com/4renginy/Module15-MechaCar_Statistical_Analysis/blob/main/DEL2.2.PNG)
 
 This results shows us that lot 1 and 2 has similar data however lot 3 has higher standard deviation which means the there was a dispertion of data values.
 
@@ -50,4 +50,4 @@ Lot3
 t=-2.0915    p=0.042
  
    This difference is considered to be statistically significant since it is less than 0.05
- ![]https://github.com/4renginy/Module15-MechaCar_Statistical_Analysis/blob/main/significanceLevel.PNG
+ ![](https://github.com/4renginy/Module15-MechaCar_Statistical_Analysis/blob/main/significanceLevel.PNG)
