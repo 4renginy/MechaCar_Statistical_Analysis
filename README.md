@@ -35,16 +35,20 @@ Total with mu=1500
 
 t=-1.8931     p=0.06
    This result is not statistically significant.
+ [](https://github.com/4renginy/Module15-MechaCar_Statistical_Analysis/blob/main/DEL3.1.PNG)
 
 Lot1
 t=0   p=1  
   This result is not statistically significant.
+  
+ ![](https://github.com/4renginy/Module15-MechaCar_Statistical_Analysis/blob/main/DEL3.2.PNG)
    
 Lot2
 P Value Results
 t=0.51745  p=0.6072
    
-  This result is not statistically significant.
+This result is not statistically significant.
+ ![](https://github.com/4renginy/Module15-MechaCar_Statistical_Analysis/blob/main/DEL3.3.PNG)
 
 Lot3  
 t=-2.0915    p=0.042
