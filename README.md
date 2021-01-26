@@ -1,10 +1,8 @@
 # Module15-MechaCar_Statistical_Analysis
 
-We now have the p-value of our test, which is greater than our significance level (0.05), so we fail to reject the null hypothesis.
+Below pic shows the p value we have calculated as summary for mpg against  vehicle, length, vehicle weight, spoiler_angel, ground_clearance, AWD. 
 
-  The two-tailed P value equals 0.6072
-   This difference is considered to be not statistically significant.
-
+p=5.35e-11 shows significant level of effect on fuel efficiency.
    
 ![](https://github.com/4renginy/Module15-MechaCar_Statistical_Analysis/blob/main/DEL1.2.PNG)
 
@@ -48,7 +46,7 @@ This result is not statistically significant.
 Lot3  
 t=-2.0915    p=0.042
  
-   This difference is considered to be statistically significant since it is less than 0.05
+   This difference is considered to be statistically significant.
    
  ![](https://github.com/4renginy/Module15-MechaCar_Statistical_Analysis/blob/main/DEL3.4.PNG)
  
